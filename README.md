@@ -1,5 +1,7 @@
 # asteroids
 
+asteroids project, using VueJs, Nasa API, Html, Css/bootstrap/animation
+
 ## Project setup
 ```
 npm install
